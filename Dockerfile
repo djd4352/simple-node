@@ -1,4 +1,4 @@
-# Use NodeJS base image
+# Use NodeJS base image from me
 FROM node:13
 
 # Create app directory
